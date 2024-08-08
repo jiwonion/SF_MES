@@ -1,0 +1,17 @@
+C:\Users\wlfhd\OneDrive\바탕 화면\SF_MES\SF_MES\bin\Debug\net5.0-windows\SF_MES.exe
+C:\Users\wlfhd\OneDrive\바탕 화면\SF_MES\SF_MES\bin\Debug\net5.0-windows\SF_MES.deps.json
+C:\Users\wlfhd\OneDrive\바탕 화면\SF_MES\SF_MES\bin\Debug\net5.0-windows\SF_MES.runtimeconfig.json
+C:\Users\wlfhd\OneDrive\바탕 화면\SF_MES\SF_MES\bin\Debug\net5.0-windows\SF_MES.runtimeconfig.dev.json
+C:\Users\wlfhd\OneDrive\바탕 화면\SF_MES\SF_MES\bin\Debug\net5.0-windows\SF_MES.dll
+C:\Users\wlfhd\OneDrive\바탕 화면\SF_MES\SF_MES\bin\Debug\net5.0-windows\ref\SF_MES.dll
+C:\Users\wlfhd\OneDrive\바탕 화면\SF_MES\SF_MES\bin\Debug\net5.0-windows\SF_MES.pdb
+C:\Users\wlfhd\OneDrive\바탕 화면\SF_MES\SF_MES\obj\Debug\net5.0-windows\SF_MES.Form1.resources
+C:\Users\wlfhd\OneDrive\바탕 화면\SF_MES\SF_MES\obj\Debug\net5.0-windows\SF_MES.csproj.GenerateResource.cache
+C:\Users\wlfhd\OneDrive\바탕 화면\SF_MES\SF_MES\obj\Debug\net5.0-windows\SF_MES.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wlfhd\OneDrive\바탕 화면\SF_MES\SF_MES\obj\Debug\net5.0-windows\SF_MES.AssemblyInfoInputs.cache
+C:\Users\wlfhd\OneDrive\바탕 화면\SF_MES\SF_MES\obj\Debug\net5.0-windows\SF_MES.AssemblyInfo.cs
+C:\Users\wlfhd\OneDrive\바탕 화면\SF_MES\SF_MES\obj\Debug\net5.0-windows\SF_MES.csproj.CoreCompileInputs.cache
+C:\Users\wlfhd\OneDrive\바탕 화면\SF_MES\SF_MES\obj\Debug\net5.0-windows\SF_MES.dll
+C:\Users\wlfhd\OneDrive\바탕 화면\SF_MES\SF_MES\obj\Debug\net5.0-windows\ref\SF_MES.dll
+C:\Users\wlfhd\OneDrive\바탕 화면\SF_MES\SF_MES\obj\Debug\net5.0-windows\SF_MES.pdb
+C:\Users\wlfhd\OneDrive\바탕 화면\SF_MES\SF_MES\obj\Debug\net5.0-windows\SF_MES.genruntimeconfig.cache
